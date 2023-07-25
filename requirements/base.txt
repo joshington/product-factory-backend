@@ -1,4 +1,4 @@
-Django==3.1
+Django==3.1.14
 graphene-django==2.13.0
 graphene-django-optimizer==0.8.0
 django-graphql-jwt==0.3.1
